@@ -1,289 +1,37 @@
 [
   {
-    "title": "19th Jan - 25th Jan, 2026",
-    "date": "Sunday, 25th January 2026",
-    "weeklyTotal": 48152,
-    "dailyBreakdown": {
-      "monday": 1057,
-      "tuesday": 955,
-      "wednesday": 11571,
-      "thursday": 13097,
-      "friday": 9859,
-      "saturday": 6778,
-      "sunday": 4835
+    "week": "22nd June - 28th June, 2026",
+    "date": "2026-06-28T00:00:00.000Z",
+    "total": 64793,
+    "breakdown": {
+      "monday": 7683,
+      "tuesday": 13246,
+      "wednesday": 8537,
+      "thursday": 10833,
+      "friday": 4975,
+      "saturday": 9201,
+      "sunday": 10318
     }
   },
   {
-    "title": "26th Jan - 1st Feb, 2026",
-    "date": "Sunday, 1st February 2026",
-    "weeklyTotal": 64985,
-    "dailyBreakdown": {
-      "monday": 1122,
-      "tuesday": 1329,
-      "wednesday": 12503,
-      "thursday": 12221,
-      "friday": 10686,
-      "saturday": 13476,
-      "sunday": 13648
+    "week": "15th June - 21st June, 2026",
+    "date": "2026-06-21T00:00:00.000Z",
+    "total": 46869,
+    "breakdown": {
+      "monday": 12895,
+      "tuesday": 4521,
+      "wednesday": 1050,
+      "thursday": 2399,
+      "friday": 4504,
+      "saturday": 10778,
+      "sunday": 10722
     }
   },
   {
-    "title": "2nd Feb - 8th Feb, 2026",
-    "date": "Sunday, 8th February 2026",
-    "weeklyTotal": 54351,
-    "dailyBreakdown": {
-      "monday": 4268,
-      "tuesday": 1184,
-      "wednesday": 9078,
-      "thursday": 10128,
-      "friday": 11561,
-      "saturday": 8828,
-      "sunday": 9304
-    }
-  },
-  {
-    "title": "9th Feb - 15th Feb, 2026",
-    "date": "Sunday, 15th February 2026",
-    "weeklyTotal": 82602,
-    "dailyBreakdown": {
-      "monday": 11592,
-      "tuesday": 6396,
-      "wednesday": 14403,
-      "thursday": 15252,
-      "friday": 16547,
-      "saturday": 15314,
-      "sunday": 3098
-    }
-  },
-  {
-    "title": "16th Feb - 22nd Feb, 2026",
-    "date": "Sunday, 22nd February 2026",
-    "weeklyTotal": 78980,
-    "dailyBreakdown": {
-      "monday": 10330,
-      "tuesday": 7607,
-      "wednesday": 13292,
-      "thursday": 12936,
-      "friday": 11513,
-      "saturday": 11429,
-      "sunday": 11873
-    }
-  },
-  {
-    "title": "23rd Feb - 1st Mar, 2026",
-    "date": "Sunday, 1st March 2026",
-    "weeklyTotal": 87889,
-    "dailyBreakdown": {
-      "monday": 2150,
-      "tuesday": 9988,
-      "wednesday": 19063,
-      "thursday": 16992,
-      "friday": 14525,
-      "saturday": 12105,
-      "sunday": 13066
-    }
-  },
-  {
-    "title": "2nd Mar - 8th Mar, 2026",
-    "date": "Sunday, 8th March 2026",
-    "weeklyTotal": 107170,
-    "dailyBreakdown": {
-      "monday": 20475,
-      "tuesday": 14606,
-      "wednesday": 14583,
-      "thursday": 15206,
-      "friday": 11250,
-      "saturday": 17461,
-      "sunday": 13589
-    }
-  },
-  {
-    "title": "9th Mar - 15th Mar, 2026",
-    "date": "Sunday, 15th March 2026",
-    "weeklyTotal": 76375,
-    "dailyBreakdown": {
-      "monday": 11872,
-      "tuesday": 2351,
-      "wednesday": 15336,
-      "thursday": 13276,
-      "friday": 12704,
-      "saturday": 10460,
-      "sunday": 10376
-    }
-  },
-  {
-    "title": "16th Mar - 22nd Mar, 2026",
-    "date": "Sunday, 22nd March 2026",
-    "weeklyTotal": 86859,
-    "dailyBreakdown": {
-      "monday": 1735,
-      "tuesday": 13130,
-      "wednesday": 12127,
-      "thursday": 18429,
-      "friday": 15652,
-      "saturday": 11453,
-      "sunday": 14333
-    }
-  },
-  {
-    "title": "23rd Mar - 29th Mar, 2026",
-    "date": "Sunday, 29th March 2026",
-    "weeklyTotal": 101568,
-    "dailyBreakdown": {
-      "monday": 3489,
-      "tuesday": 4144,
-      "wednesday": 12442,
-      "thursday": 13936,
-      "friday": 16499,
-      "saturday": 25353,
-      "sunday": 25705
-    }
-  },
-  {
-    "title": "30th Mar - 5th Apr, 2026",
-    "date": "Sunday, 5th April 2026",
-    "weeklyTotal": 74313,
-    "dailyBreakdown": {
-      "monday": 3445,
-      "tuesday": 5775,
-      "wednesday": 13212,
-      "thursday": 13187,
-      "friday": 15764,
-      "saturday": 12108,
-      "sunday": 10822
-    }
-  },
-  {
-    "title": "6th Apr - 12th Apr, 2026",
-    "date": "Sunday, 12th April 2026",
-    "weeklyTotal": 77537,
-    "dailyBreakdown": {
-      "monday": 9709,
-      "tuesday": 4739,
-      "wednesday": 11910,
-      "thursday": 12590,
-      "friday": 11162,
-      "saturday": 14351,
-      "sunday": 13076
-    }
-  },
-  {
-    "title": "13th Apr - 19th Apr, 2026",
-    "date": "Sunday, 19th April 2026",
-    "weeklyTotal": 77674,
-    "dailyBreakdown": {
-      "monday": 6266,
-      "tuesday": 7408,
-      "wednesday": 12237,
-      "thursday": 12659,
-      "friday": 15276,
-      "saturday": 10732,
-      "sunday": 13096
-    }
-  },
-  {
-    "title": "20th Apr - 26th Apr, 2026",
-    "date": "Sunday, 26th April 2026",
-    "weeklyTotal": 91479,
-    "dailyBreakdown": {
-      "monday": 21684,
-      "tuesday": 3585,
-      "wednesday": 14245,
-      "thursday": 14435,
-      "friday": 12915,
-      "saturday": 14237,
-      "sunday": 10378
-    }
-  },
-  {
-    "title": "27th Apr - 3rd May, 2026",
-    "date": "Sunday, 3rd May 2026",
-    "weeklyTotal": 58539,
-    "dailyBreakdown": {
-      "monday": 4971,
-      "tuesday": 10594,
-      "wednesday": 18914,
-      "thursday": 14469,
-      "friday": 2967,
-      "saturday": 5510,
-      "sunday": 1114
-    }
-  },
-  {
-    "title": "4th May - 10th May, 2026",
-    "date": "Sunday, 10th May 2026",
-    "weeklyTotal": 44902,
-    "dailyBreakdown": {
-      "monday": 4717,
-      "tuesday": 11405,
-      "wednesday": 10369,
-      "thursday": 2025,
-      "friday": 9126,
-      "saturday": 6810,
-      "sunday": 450
-    }
-  },
-  {
-    "title": "11th May - 17th May, 2026",
-    "date": "Sunday, 17th May 2026",
-    "weeklyTotal": 42710,
-    "dailyBreakdown": {
-      "monday": 9254,
-      "tuesday": 9879,
-      "wednesday": 8082,
-      "thursday": 3786,
-      "friday": 1108,
-      "saturday": 8566,
-      "sunday": 2035
-    }
-  },
-  {
-    "title": "18th May - 24th May, 2026",
-    "date": "Sunday, 24th May 2026",
-    "weeklyTotal": 54240,
-    "dailyBreakdown": {
-      "monday": 12838,
-      "tuesday": 869,
-      "wednesday": 7828,
-      "thursday": 8313,
-      "friday": 9101,
-      "saturday": 4630,
-      "sunday": 10661
-    }
-  },
-  {
-    "title": "25th May - 31st May, 2026",
-    "date": "Sunday, 31st May 2026",
-    "weeklyTotal": 58048,
-    "dailyBreakdown": {
-      "monday": 1592,
-      "tuesday": 15777,
-      "wednesday": 14440,
-      "thursday": 6156,
-      "friday": 3853,
-      "saturday": 1323,
-      "sunday": 14907
-    }
-  },
-  {
-    "title": "1st June - 7th June, 2026",
-    "date": "Sunday, 7th June 2026",
-    "weeklyTotal": 52768,
-    "dailyBreakdown": {
-      "monday": 7875,
-      "tuesday": 1405,
-      "wednesday": 10640,
-      "thursday": 2027,
-      "friday": 8501,
-      "saturday": 8707,
-      "sunday": 13613
-    }
-  },
-  {
-    "title": "8th June - 14th June, 2026",
-    "date": "Sunday, 14th June 2026",
-    "weeklyTotal": 48370,
-    "dailyBreakdown": {
+    "week": "8th June - 14th June, 2026",
+    "date": "2026-06-14T00:00:00.000Z",
+    "total": 48370,
+    "breakdown": {
       "monday": 2376,
       "tuesday": 12608,
       "wednesday": 5237,
@@ -294,17 +42,283 @@
     }
   },
   {
-    "title": "15th June - 21st June, 2026",
-    "date": "Sunday, 21st June 2026",
-    "weeklyTotal": 46869,
-    "dailyBreakdown": {
-      "monday": 12895,
-      "tuesday": 4521,
-      "wednesday": 1050,
-      "thursday": 2399,
-      "friday": 4504,
-      "saturday": 10778,
-      "sunday": 10722
+    "week": "1st June - 7th June, 2026",
+    "date": "2026-06-07T00:00:00.000Z",
+    "total": 52768,
+    "breakdown": {
+      "monday": 7875,
+      "tuesday": 1405,
+      "wednesday": 10640,
+      "thursday": 2027,
+      "friday": 8501,
+      "saturday": 8707,
+      "sunday": 13613
+    }
+  },
+  {
+    "week": "25th May - 31st May, 2026",
+    "date": "2026-05-31T00:00:00.000Z",
+    "total": 58048,
+    "breakdown": {
+      "monday": 1592,
+      "tuesday": 15777,
+      "wednesday": 14440,
+      "thursday": 6156,
+      "friday": 3853,
+      "saturday": 1323,
+      "sunday": 14907
+    }
+  },
+  {
+    "week": "18th May - 24th May, 2026",
+    "date": "2026-05-24T00:00:00.000Z",
+    "total": 54240,
+    "breakdown": {
+      "monday": 12838,
+      "tuesday": 869,
+      "wednesday": 7828,
+      "thursday": 8313,
+      "friday": 9101,
+      "saturday": 4630,
+      "sunday": 10661
+    }
+  },
+  {
+    "week": "11th May - 17th May, 2026",
+    "date": "2026-05-17T00:00:00.000Z",
+    "total": 42710,
+    "breakdown": {
+      "monday": 9254,
+      "tuesday": 9879,
+      "wednesday": 8082,
+      "thursday": 3786,
+      "friday": 1108,
+      "saturday": 8566,
+      "sunday": 2035
+    }
+  },
+  {
+    "week": "4th May - 10th May, 2026",
+    "date": "2026-05-10T00:00:00.000Z",
+    "total": 44902,
+    "breakdown": {
+      "monday": 4717,
+      "tuesday": 11405,
+      "wednesday": 10369,
+      "thursday": 2025,
+      "friday": 9126,
+      "saturday": 6810,
+      "sunday": 450
+    }
+  },
+  {
+    "week": "27th Apr - 3rd May, 2026",
+    "date": "2026-05-03T00:00:00.000Z",
+    "total": 58539,
+    "breakdown": {
+      "monday": 4971,
+      "tuesday": 10594,
+      "wednesday": 18914,
+      "thursday": 14469,
+      "friday": 2967,
+      "saturday": 5510,
+      "sunday": 1114
+    }
+  },
+  {
+    "week": "20th Apr - 26th Apr, 2026",
+    "date": "2026-04-26T00:00:00.000Z",
+    "total": 91479,
+    "breakdown": {
+      "monday": 21684,
+      "tuesday": 3585,
+      "wednesday": 14245,
+      "thursday": 14435,
+      "friday": 12915,
+      "saturday": 14237,
+      "sunday": 10378
+    }
+  },
+  {
+    "week": "13th Apr - 19th Apr, 2026",
+    "date": "2026-04-19T00:00:00.000Z",
+    "total": 77674,
+    "breakdown": {
+      "monday": 6266,
+      "tuesday": 7408,
+      "wednesday": 12237,
+      "thursday": 12659,
+      "friday": 15276,
+      "saturday": 10732,
+      "sunday": 13096
+    }
+  },
+  {
+    "week": "6th Apr - 12th Apr, 2026",
+    "date": "2026-04-12T00:00:00.000Z",
+    "total": 77537,
+    "breakdown": {
+      "monday": 9709,
+      "tuesday": 4739,
+      "wednesday": 11910,
+      "thursday": 12590,
+      "friday": 11162,
+      "saturday": 14351,
+      "sunday": 13076
+    }
+  },
+  {
+    "week": "30th Mar - 5th Apr, 2026",
+    "date": "2026-04-05T00:00:00.000Z",
+    "total": 74313,
+    "breakdown": {
+      "monday": 3445,
+      "tuesday": 5775,
+      "wednesday": 13212,
+      "thursday": 13187,
+      "friday": 15764,
+      "saturday": 12108,
+      "sunday": 10822
+    }
+  },
+  {
+    "week": "23rd Mar - 29th Mar, 2026",
+    "date": "2026-03-29T00:00:00.000Z",
+    "total": 101568,
+    "breakdown": {
+      "monday": 3489,
+      "tuesday": 4144,
+      "wednesday": 12442,
+      "thursday": 13936,
+      "friday": 16499,
+      "saturday": 25353,
+      "sunday": 25705
+    }
+  },
+  {
+    "week": "16th Mar - 22nd Mar, 2026",
+    "date": "2026-03-22T00:00:00.000Z",
+    "total": 86859,
+    "breakdown": {
+      "monday": 1735,
+      "tuesday": 13130,
+      "wednesday": 12127,
+      "thursday": 18429,
+      "friday": 15652,
+      "saturday": 11453,
+      "sunday": 14333
+    }
+  },
+  {
+    "week": "9th Mar - 15th Mar, 2026",
+    "date": "2026-03-15T00:00:00.000Z",
+    "total": 76375,
+    "breakdown": {
+      "monday": 11872,
+      "tuesday": 2351,
+      "wednesday": 15336,
+      "thursday": 13276,
+      "friday": 12704,
+      "saturday": 10460,
+      "sunday": 10376
+    }
+  },
+  {
+    "week": "2nd Mar - 8th Mar, 2026",
+    "date": "2026-03-08T00:00:00.000Z",
+    "total": 107170,
+    "breakdown": {
+      "monday": 20475,
+      "tuesday": 14606,
+      "wednesday": 14583,
+      "thursday": 15206,
+      "friday": 11250,
+      "saturday": 17461,
+      "sunday": 13589
+    }
+  },
+  {
+    "week": "23rd Feb - 1st Mar, 2026",
+    "date": "2026-03-01T00:00:00.000Z",
+    "total": 87889,
+    "breakdown": {
+      "monday": 2150,
+      "tuesday": 9988,
+      "wednesday": 19063,
+      "thursday": 16992,
+      "friday": 14525,
+      "saturday": 12105,
+      "sunday": 13066
+    }
+  },
+  {
+    "week": "16th Feb - 22nd Feb, 2026",
+    "date": "2026-02-22T00:00:00.000Z",
+    "total": 78980,
+    "breakdown": {
+      "monday": 10330,
+      "tuesday": 7607,
+      "wednesday": 13292,
+      "thursday": 12936,
+      "friday": 11513,
+      "saturday": 11429,
+      "sunday": 11873
+    }
+  },
+  {
+    "week": "9th Feb - 15th Feb, 2026",
+    "date": "2026-02-15T00:00:00.000Z",
+    "total": 82602,
+    "breakdown": {
+      "monday": 11592,
+      "tuesday": 6396,
+      "wednesday": 14403,
+      "thursday": 15252,
+      "friday": 16547,
+      "saturday": 15314,
+      "sunday": 3098
+    }
+  },
+  {
+    "week": "2nd Feb - 8th Feb, 2026",
+    "date": "2026-02-08T00:00:00.000Z",
+    "total": 54351,
+    "breakdown": {
+      "monday": 4268,
+      "tuesday": 1184,
+      "wednesday": 9078,
+      "thursday": 10128,
+      "friday": 11561,
+      "saturday": 8828,
+      "sunday": 9304
+    }
+  },
+  {
+    "week": "26th Jan - 1st Feb, 2026",
+    "date": "2026-02-01T00:00:00.000Z",
+    "total": 64985,
+    "breakdown": {
+      "monday": 1122,
+      "tuesday": 1329,
+      "wednesday": 12503,
+      "thursday": 12221,
+      "friday": 10686,
+      "saturday": 13476,
+      "sunday": 13648
+    }
+  },
+  {
+    "week": "19th Jan - 25th Jan, 2026",
+    "date": "2026-01-25T00:00:00.000Z",
+    "total": 48152,
+    "breakdown": {
+      "monday": 1057,
+      "tuesday": 955,
+      "wednesday": 11571,
+      "thursday": 13097,
+      "friday": 9859,
+      "saturday": 6778,
+      "sunday": 4835
     }
   }
 ]

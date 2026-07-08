@@ -1,5 +1,19 @@
 [
   {
+    "week": "29th June - 5th July, 2026",
+    "date": "2026-07-05T00:00:00.000Z",
+    "total": 63640,
+    "breakdown": {
+      "monday": 10241,
+      "tuesday": 9728,
+      "wednesday": 10046,
+      "thursday": 9780,
+      "friday": 8381,
+      "saturday": 13120,
+      "sunday": 2344
+    }
+  },
+  {
     "week": "22nd June - 28th June, 2026",
     "date": "2026-06-28T00:00:00.000Z",
     "total": 64793,
